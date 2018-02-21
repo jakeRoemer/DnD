@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DnD</string>
+    <string name="new_character_label">Create New Character</string>
+    <string name="character_profile_label">Character Profile</string>
+    <string name="character_sheet_label">Character Sheet</string>
+    <string name="ability_sheet_label">Ability Sheet</string>
+    <string name="encounter_sheet_label">Encounter Sheet</string>
+</resources>
